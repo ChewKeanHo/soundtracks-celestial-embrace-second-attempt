@@ -1,21 +1,31 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Celestial Embrace - Second Attempt | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Previous embrace looks good. Let's iterate more for varieties and sampling
+purposes. Here is another lovingly peaceful embrace.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #chillwave #chillout #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/02_Celestial-Embrace-Second-Attempt.mp3
+  Size: 5951488         Blocks: 11624      IO Block: 4096   regular file
+Device: 253,2   Inode: 40765872    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-10-31 18:57:14.263850944 +0800
+Modify: 2025-10-31 18:57:34.411939017 +0800
+Change: 2025-10-31 18:57:34.411939017 +0800
+ Birth: 2025-07-20 11:53:32.298218283 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-25
+On YouTube since : 2025-05-25
 ```
 
-[YouTube](#) |
+[YouTube](https://www.youtube.com/watch?v=FoC5_1MWzyc) |
 [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
-[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf) |
+[Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf) |
+[Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
 
 
 
@@ -36,9 +46,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Celestial Embrace - Second Attempt
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-celestial-embrace-second-attempt
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
