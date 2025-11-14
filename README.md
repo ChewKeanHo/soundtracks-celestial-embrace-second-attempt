@@ -9,12 +9,10 @@ purposes. Here is another lovingly peaceful embrace.
 #electronicmusic #soundtrack #chillwave #chillout #femalevocal
 
   File: Audios/02_Celestial-Embrace-Second-Attempt.mp3
-  Size: 5951488         Blocks: 11624      IO Block: 4096   regular file
-Device: 253,2   Inode: 40765872    Links: 1
-Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
-Access: 2025-10-31 18:57:14.263850944 +0800
-Modify: 2025-10-31 18:57:34.411939017 +0800
-Change: 2025-10-31 18:57:34.411939017 +0800
+  Size: 5953536         Blocks: 11632      IO Block: 4096   regular file
+Access: 2025-11-14 15:40:30.094000565 +0800
+Modify: 2025-11-02 19:57:01.574911015 +0800
+Change: 2025-11-02 19:57:01.574911015 +0800
  Birth: 2025-07-20 11:53:32.298218283 +0800
 
 On Published Date: 2025-05-10
@@ -34,6 +32,7 @@ On YouTube since : 2025-05-25
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
 * [Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf)
 * [Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -54,11 +53,15 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Celestial Embrace - Second Attempt
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-celestial-embrace-second-attempt
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Celestial Embrace - Second Attempt
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-celestial-embrace-second-attempt
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-05-10 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Video made in: https://vizzy.io/
+Procure: https://github.com/ChewKeanHo/soundtracks-celestial-embrace-second-attempt
 --------------------------------------------------------------------------------
 ```
 
